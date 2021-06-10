@@ -1,4 +1,4 @@
-# Doggo.Cqrs
+# Doggo.Cqs
 - Layered architecture.
 - Commands and Queries segregation, without resource segregation.
 - MediatR Study case.
